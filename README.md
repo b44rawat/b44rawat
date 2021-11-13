@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="profile-background.png">
+<img src="profile-backround.png">
