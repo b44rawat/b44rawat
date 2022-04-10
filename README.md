@@ -1,4 +1,4 @@
-<img src="profile-backround.png">
+<img src="profile.png">
 
 # About Me
 
