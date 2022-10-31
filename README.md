@@ -1,8 +1,6 @@
-<img src="profilecover.jpg">
-
 # About Me
 
-A Devops guy love to connect with technology.
+A Devops guy
 
 ## BLOGS & COMMUNITY CONTRIBUTIONS
 </br>
